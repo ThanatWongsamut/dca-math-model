@@ -1,6 +1,6 @@
 # 🇹🇭 Thai S&P500 DCA Optimizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dca-sp500.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://dca-sp500.streamlit.app/)
 
 **🚀 Live Demo: [dca-sp500.streamlit.app](https://dca-sp500.streamlit.app/)**
 
