@@ -1,5 +1,9 @@
 # 🇹🇭 Thai S&P500 DCA Optimizer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dca-sp500.streamlit.app/)
+
+**🚀 Live Demo: [dca-sp500.streamlit.app](https://dca-sp500.streamlit.app/)**
+
 An interactive mathematical model and visualization tool built in Python using Streamlit to compare different methods for Thai residents to Dollar-Cost Average (DCA) into the S&P 500.
 
 ## 📊 Features Compared
